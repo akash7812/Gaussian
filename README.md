@@ -50,7 +50,8 @@ for i in range(n):
 ```
 
 ## Output:
-![gaussian elimination](./Guassian.png)
+![gaussian elimination](https://github.com/akash7812/Gaussian/assets/146819826/2b955b1b-5024-4a49-9b78-d1f291abc3b5)
+
 
 
 ## Result:
